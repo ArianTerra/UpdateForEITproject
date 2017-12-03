@@ -1,3 +1,6 @@
+<Version: 1.2>
+/data/Map010.json https://raw.githubusercontent.com/ArianTerra/UpdateForEITproject/master/v1_2/Map010.json
+<End of Version>
 <Version: 1.1>
 /data/test.txt https://raw.githubusercontent.com/ArianTerra/UpdateForEITproject/master/test2
 <End of Version>
