@@ -1,1 +1,3 @@
-
+<Version: 1.01>
+/openme.txt https://raw.githubusercontent.com/ArianTerra/UpdateForEITproject/master/OpenMe
+<End of Version>
